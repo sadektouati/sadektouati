@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sadektouati
-- 👀 I’m interested in JS and it's echosystem, PHP and Laravel, CSS and friends... oooh, and PostgreSQL and other tools of this trade
-- 🌱 I’m currently learning bits of everything above. We never quit learning (unless we've made it into Bezzos, Jobs... territory)
-- 💞️ I’m looking to collaborate on some borring JS products
-- 📫 How to reach me... NOT YET :)
+- 👀 I’m interested in JS and it's echosystem, PHP and Laravel, CSS... oooh, and PostgreSQL and other tools
+- 🌱 I’m currently learning everything above.
+- 💞️ I’m looking to collaborate on some intersting JS projects
+- 📫 How to reach me... NOT YET, working on it though :)
 
 <!---
 sadektouati/sadektouati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
